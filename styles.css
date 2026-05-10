@@ -1,0 +1,34 @@
+.stApp {
+    background-color: #0f172a;
+    color: white;
+}
+
+section[data-testid="stSidebar"] {
+    background-color: #111827;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+.stButton > button {
+    background-color: #2563eb;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+.stDownloadButton > button {
+    background-color: #059669;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+.upload-box {
+    padding: 40px;
+    border: 2px dashed gray;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
